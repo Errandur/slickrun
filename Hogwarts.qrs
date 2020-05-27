@@ -1,0 +1,63 @@
+﻿[ahk_main]
+Filename="c:\AHK\Hogwarts.ahk"
+GUID={21BFAD79-4DEE-4A7C-93DD-F348B42FA555}
+StartMode=5
+UseCount=1
+[calendar]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://calendar.google.com/calendar/r?tab=mc"
+GUID={FFB60CDD-5B8D-44D7-A196-489006E698A3}
+StartMode=5
+UseCount=1
+[drive]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://drive.google.com/drive/my-drive"
+GUID={415F4F67-43EF-4448-9CF1-60F03FB9D3DC}
+StartMode=1
+UseCount=2
+[gh_errandir]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://github.com/Errandur?tab=repositories"
+GUID={4627E12D-B3D9-403C-9F02-F4A5B0C85B46}
+StartMode=1
+[gmail]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://mail.google.com/mail/u/0/?hl=en&shva=1#"
+GUID={9E55704D-BA00-46E4-A92E-521E8C98EE31}
+StartMode=5
+[google]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://www.google.com/search?hl=en&q=$W$"
+GUID={741742F4-F832-4669-BB32-8860419E927C}
+StartMode=5
+UseCount=1
+[tcmd]
+Filename="C:\Total Commander\TOTALCMD64.EXE"
+GUID={462212F4-81D1-4465-B224-1F62E8489386}
+StartMode=5
+UseCount=1
+[weather]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://weather.com/weather/today/l/da5f40ead0e0fe6dbbaf6aa83704a616de36f6491c464b945fd2bf1bfc86555c"
+GUID={99E25FC5-0498-4D04-A52E-554CEC2B15A1}
+StartMode=5
+[wiki]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://en.wikipedia.org/wiki/$W$"
+GUID={ED3E8A3D-D1AF-4207-BD91-D8A87C6647FA}
+StartMode=1
+UseCount=2
+[wsl]
+Filename="C:\Program Files\WindowsApps\CanonicalGroupLimited.UbuntuonWindows_2004.2020.424.0_x64__79rhkp1fndgsc\ubuntu.exe"
+GUID={15B7E085-BB46-417B-B576-11C8B557AA89}
+StartMode=5
+[yt]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://www.youtube.com/feed/subscriptions"
+GUID={6F83CE3E-98FE-4AA8-A5E5-B246FF5281B3}
+StartMode=1
+[ytsearch]
+Filename="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+Params="https://www.youtube.com/results?search_query=$W$"
+GUID={9C7EC8AF-BBA4-4301-A2EA-12C18D72A433}
+StartMode=1
